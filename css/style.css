@@ -15,7 +15,8 @@
 
     h1 {
     font-size: 40px;
-    margin-bottom: 0px;   
+    margin-bottom: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
     }
 
     .Title-paragraph{
@@ -79,6 +80,10 @@
 
     .tr-color {
         background-color: rgb(193, 231, 252);
+    }
+
+    table {
+        border-collapse: collapse;
     }
 
     /* /second section whit list and table */
