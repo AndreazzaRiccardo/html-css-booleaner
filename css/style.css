@@ -1,10 +1,9 @@
-/* Header */
+/* HEADER */
 #Header-logo {
     background-color: rgb(37, 164, 255);
     height: 100px;
     background-image: url(../img/pattern.png);
     background-size: 400px;
-    background-attachment:local;
 }
 
 div#Header-logo img {
@@ -16,8 +15,7 @@ div#Header-logo img {
 
 h1 {
     font-size: 40px;
-    margin-bottom: 0px;
-    
+    margin-bottom: 0px;   
 }
 
 .Title-paragraph{
@@ -27,7 +25,7 @@ h1 {
     margin-bottom: 0px;
 }
 
-.small-text {
+.date {
     font-size: x-small;
     margin-top: 0px;
     color: gray;
@@ -37,10 +35,17 @@ p.Title-paragraph span{
     color: rgb(0, 174, 255);
     font-weight: bold;
 }
+/* /HEADER */
 
+/* MAIN */
 
-
-
+/* First section whit photo */
+.photo-description {
+    font-size: x-small;
+    margin-top: 0px;
+    font-weight: bold;
+}
+    /* /First section whit photo */
 
 
 
